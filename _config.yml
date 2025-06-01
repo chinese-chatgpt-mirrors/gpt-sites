@@ -3,3 +3,6 @@ plugins:
   
 include:
   - BingSiteAuth.xml
+
+webmaster_verifications:
+  bing: 52A92BA740603E7AC61DDAD329DBBFCA
