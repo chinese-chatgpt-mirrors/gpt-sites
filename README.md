@@ -1,6 +1,6 @@
 # ChatGPT 免费 | 中文版 | 国内直连指南（无需翻墙）
 
-> 🔥 **2025-08-22最新更新**: 支持 GPT-4o、GPT-4.1、GPT-o1、GPT-o3、GPT-o4、GPT-4.5、DeepSeek R1 等顶级模型，无需翻墙直接访问！
+> 🔥 **2025-08-23最新更新**: 支持 GPT-4o、GPT-4.1、GPT-o1、GPT-o3、GPT-o4、GPT-4.5、DeepSeek R1 等顶级模型，无需翻墙直接访问！
 
 ## 🚀 ChatGPT 中文版简介
 
